@@ -186,5 +186,5 @@ SeroKell -  https://serokell.io/blog/algebraic-data-types-in-haskell
 GitHub da disciplina: https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2026a/main/classes/03/README.md#24
 documentação do codeWorld - https://cw21.brbytes.org/doc/
 
-## Prática
+## Video da execução do programa
 <img src="./video-pratica.gif" width="600">

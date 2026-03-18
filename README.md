@@ -187,4 +187,4 @@ GitHub da disciplina: https://liascript.github.io/course/?https://raw.githubuser
 documentação do codeWorld - https://cw21.brbytes.org/doc/
 
 ## Prática
-
+<img src="./video-pratica.gif" width="600">

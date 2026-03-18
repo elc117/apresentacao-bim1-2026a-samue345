@@ -188,3 +188,5 @@ documentação do codeWorld - https://cw21.brbytes.org/doc/
 
 ## Video da execução do programa
 <img src="./video-pratica.gif" width="600">
+
+ Link do código: https://code.world/haskell#PSAP49qms7Ahg4z1gpLm2Jw

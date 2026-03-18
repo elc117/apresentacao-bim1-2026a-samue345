@@ -79,7 +79,7 @@ Depois, A.array ((0,0), (w-1,h-1)) define o tamanho do array que será criado.
 Em seguida, o código percorre o mapa.
 O zipWith parseRow [0..] rows associa cada linha a um índice j (posição vertical). O zipWith é uma função que percorre duas listas ao mesmo tempo e aplica uma função aos elementos correspondentes. Aqui, ele pega os índices [0..] e as linhas do mapa, chamando parseRow j row para cada par.
 
-Para cada linha, parseRow j row percorre os caracteres usando zipWith (parseCell j) [0..] row, associando cada caractere a um índice i (posição horizontal). Nesse caso, o zipWith faz a mesma coisa: combina os índices com os caracteres da linha.
+Para cada linha, 0 parseRow j row percorre os caracteres usando zipWith (parseCell j) [0..] row, associando cada caractere a um índice i (posição horizontal). Nesse caso, o zipWith faz a mesma coisa: combina os índices com os caracteres da linha.
 
 A função parseCell j i cell transforma cada caractere em um par ((i,j), valor), onde o valor é o número correspondente ao caractere.
 
